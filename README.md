@@ -48,7 +48,7 @@ To address these challenges, this project applies data analysis techniques to un
 ---
 ## 🔄Data Workflow
 
-**1. Data Extraction**
+**1. Data Collection and Extraction**
 
 The dataset consisted of three CSV files:
 
